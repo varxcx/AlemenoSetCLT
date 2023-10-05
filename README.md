@@ -53,7 +53,9 @@ To run this Swift code locally, follow these steps:
    ```
 #### or 
 
- Open the Project, build and run. 
+ Open the Project, build and run. (Checkout the [Video](Walthrough.mp4)) <img src="https://media.giphy.com/media/BtioUceLxBbrPyzt2Q/giphy.gif" alt="GIF" style="width: 30px; height: auto; position: absolute; top: 0; right: 0;">
+ 
+
 
 
 
